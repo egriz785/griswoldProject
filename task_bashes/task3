@@ -1,0 +1,3 @@
+#!/bin/bash
+./../task3/set_pins
+./../task3/subscribe

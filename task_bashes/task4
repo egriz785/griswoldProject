@@ -1,0 +1,3 @@
+#!/bin/bash
+./../task4/set_pins
+./../task4/publish
