@@ -13,7 +13,7 @@ using namespace std;
 #define CLIENTID   "Beagle1"
 #define TOPIC      "egriz785/feeds/project.windowsensor"
 #define AUTHMETHOD "egriz785"
-#define AUTHTOKEN  "aio_wMIt41xp1GOlLip99piPyygfEB34"  
+#define AUTHTOKEN  "aio_DQfA34I9j7sl3TyOPLmGrd11xASR"
 #define QOS        1
 #define TIMEOUT    10000L
 
